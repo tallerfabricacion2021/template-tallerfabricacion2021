@@ -25,7 +25,7 @@ summaryLength = 30
   homepage_button_link = '/docs'
   homepage_button_text = 'Ir a Documentación'
   homepage_intro = 'Repositorio Taller Fabricación Universidad Adolfo Ibáñez 2021'
-  homepage_image = '/images/bg-home.png'
+  homepage_image = '/images/bg-home.jpeg'
 
 
   [params.homepage_meta_tags]
